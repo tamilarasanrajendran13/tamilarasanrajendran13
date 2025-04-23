@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Tam — Software Developer & Automation Architect from Toronto 🇨🇦
+# 👋 Hey there! I’m Tamilarasan — a Software Developer, Automation Architect, and AI Explorer based in Toronto 🇨🇦
 
 🔧 I build data-driven solutions that automate validation, detect anomalies, and streamline pipelines  
 ⚙️ Working at the intersection of **Python**, **AI**, **Cloud**, and **Big Data**  
