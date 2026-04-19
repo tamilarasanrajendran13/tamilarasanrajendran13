@@ -82,12 +82,4 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tamilarasanrajendran13/tamilarasanrajendran13/output/snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 _Thanks for scrolling this far! Let’s build something amazing together._ 🚀
