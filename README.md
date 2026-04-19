@@ -73,16 +73,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamilarasanrajendran13&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilarasanrajendran13&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tamilarasanrajendran13&theme=tokyonight)
-
----
 
 ## 📬 Connect with Me
 
